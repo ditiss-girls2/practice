@@ -1,2 +1,6 @@
 sample I am!
+
 text from branch2
+
+text from branch1
+
